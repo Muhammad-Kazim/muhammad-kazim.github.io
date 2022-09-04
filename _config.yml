@@ -8,8 +8,8 @@
 github: [metadata]
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : 
+title                    : "Syed Muhammad Kazim / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
