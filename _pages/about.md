@@ -1,17 +1,13 @@
 ---
 permalink: /
-title: "Syed Muhammad Kazim - AI enthusiastr"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-About Me
-========
-
-I am an Artificial Intelligence enthusasit/practitioner/researcher. Curently, I work as remote AI consultant for Endress+Hauser, Germany. The general theme of my projects include identifying, mofifying and creating SOTA algorithms using computer vision and deep learning to automate industrial processes. One major domain is automation in quality control to preclude human intervention. These projects generally include heavy data augmentations, model selection, training/validation/testing, hyperparameter optimizations, streamlit demos, git version controlling, and docker containerization.
-
+small changesI am an Artificial Intelligence enthusasit/practitioner/researcher. Curently, I work as remote AI consultant for Endress+Hauser, Germany. The general theme of my projects include identifying, mofifying and creating SOTA algorithms using computer vision and deep learning to automate industrial processes. One major domain is automation in quality control to preclude human intervention. These projects generally include heavy data augmentations, model selection, training/validation/testing, hyperparameter optimizations, streamlit demos, git version controlling, and docker containerization.
 
 Background
 ==========

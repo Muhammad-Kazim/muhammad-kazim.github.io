@@ -9,9 +9,9 @@ github: [metadata]
 
 # Site Settings
 locale                   : 
-title                    : "Syed Muhammad Kazim / Site Title"
-title_separator          : "-"
-name                     : &name "Syed Muhammad Kazim"
+title                    : #"Syed Muhammad Kazim / Site Title"
+title_separator          : #"-"
+name                     : #&name "Syed Muhammad Kazim"
 description              : &description "personal description"
 url                      : https://muhammad-kazim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
