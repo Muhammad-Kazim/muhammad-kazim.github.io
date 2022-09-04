@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Artificial Intelligence enthusiast/practitioner/researcher. Curently, I work as a remote AI consultant for Endress+Hauser, Germany. The general theme of my projects include identifying, modifying and creating SOTA algorithms using computer vision and deep learning to automate industrial processes. One major domain is automation to preclude human intervention in quality control tasks. These projects generally include heavy data augmentations, model selection, training/validation/testing, hyperparameter optimizations, streamlit demos, git version controlling, and docker containerization.
+I am an Artificial Intelligence enthusiast/practitioner/researcher. Curently, I work as a remote AI consultant for Endress+Hauser, Germany. The general theme of my projects include identifying, modifying and creating SOTA algorithms using computer vision and deep learning to automate industrial processes. One major domain is automation to preclude human intervention in quality control tasks. These projects generally include literature reviews, heavy data augmentations, model selection, training/validation/testing, hyperparameter optimizations, streamlit demos, git version controlling, and docker containerization.
 
 Background
 ==========
