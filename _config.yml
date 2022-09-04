@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Syed Muhammad Kazim"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : # "AI enthusaist and consultant"
   location         : "Pakistan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
