@@ -19,12 +19,16 @@ Work experience
 
 * October 2021: External AI Consultant
 
-  * Compnay: Endress+Hauser
+  * Compnay: Endress+Hauser, *Germany* -- *Remote*
   * Duties included: Automation using AI tools.
 * September 2019 - February 2022: Graduate Research Assistant
 
-  * Communications and Quantum Information Lab, Kyung Hee University
+  * Communications and Quantum Information Lab, Kyung Hee University , *South Korea*
   * Duties included: Research on quantum state tomography, proposal write-ups and lab management.
+* August 2018 - August 2019: Research Officer
+
+  * INTEL Research Lab, National University of Sciences and Technology, *Pakistan*
+  * Duties included: Design and optimization of antennas and amplifiers.
 
 Skills
 ======
