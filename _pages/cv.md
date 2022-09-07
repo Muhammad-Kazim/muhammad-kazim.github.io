@@ -17,7 +17,7 @@ Education
 Work experience
 ===============
 
-* October 2021: External AI Consultant
+* October 2021 -- *Present*: External AI Consultant
 
   * Compnay: Endress+Hauser, *Germany* -- *Remote*
   * Duties included: Automation using AI tools.
