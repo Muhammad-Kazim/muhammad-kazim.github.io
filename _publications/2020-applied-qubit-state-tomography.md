@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-08-applied-bayesian-qubit-state-tomography
 excerpt: ''
 date: 2020-08-01
-venue: 'Replublic of Korea'
+venue: 'Proc. Korea Information and Communications Society (KICS) Summer Conference'
 paperurl: ''
 citation: 'S. M. Kazim, A. Farooq, J. ur Rehman, and H. Shin, &quot;Applied Bayesian Qubit State Tomography,&quot; <i>Proc. Korea Information and Communications Society (KICS) Summer Conference</i>, pp. 190-192 Korea, Aug. 2020.'
 ---
