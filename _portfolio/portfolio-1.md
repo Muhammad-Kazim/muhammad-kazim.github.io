@@ -6,4 +6,3 @@ excerpt: "Inference using custom calssifer and fine-tuned feature extractor to i
 </video>"
 collection: portfolio
 ---
-Details will be added later.
