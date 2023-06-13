@@ -8,4 +8,4 @@ redirect_from:
 ---
 {% include base_path %}
 
-[Download CV here](http://muhammad-kazim.github.io/files/SMKazim-CV.pdf)
+[Download CV here](http://muhammad-kazim.github.io/files/SMKazim-CV_2.pdf)
