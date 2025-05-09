@@ -10,5 +10,7 @@ citation: 'S. M. Kazim, F. Strasser, M. Løvmo, A. Nehrych, S. Moser, M. Ziemczo
 of static and dynamic Specimens using digital holographic microscopy,&quot; <i>International Symposium on Computational Sensing (ISCS)</i>, Mar. 2025'
 ---
 Abstract -- Coded wavefront sensing (Coded-WFS) is a snapshot quantitative phase imaging (QPI) technique that has been shown to successfully leverage the memory effect to retrieve the phase of biological specimens. In this paper, we perform QPI on static silica beads and dynamic HEK cells using Coded-WFS. The accuracy of the retrieved phase map is validated using digital holographic microscopy (DHM) for the same specimens. We report comparisons of simultaneous bright-field intensity and optical path delay.
-
+<video width='500' height='300' loop='true' autoplay='autoplay' controls=muted>
+	<source src='/images/portfolio1.mp4' type='video/mp4'>
+</video>"
 [Download paper here](http://muhammad-kazim.github.io/files/2025_03_Performance_Validation_of_Coded-WS_for_QPI_of_Static_and_Dynamic_Specimens_Using_DHM.pdf)
