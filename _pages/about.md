@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at the University of Siegen. My advisor is Prof. Ivo Ihrke. 
+I am a PhD student at the University of Siegen. My advisor is [Prof. Ivo Ihrke](https://scholar.google.com/citations?user=XW6MbmAAAAAJ&hl=en&oi=ao). I am interested in wave optics, imaging, and optimization for wavefront sensing and tomography.
 
 Background
 ==========
