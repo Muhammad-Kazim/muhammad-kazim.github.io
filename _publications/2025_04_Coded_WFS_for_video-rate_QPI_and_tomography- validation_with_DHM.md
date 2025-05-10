@@ -1,6 +1,6 @@
 ---
 title: "Coded wavefront sensing for video-rate quantitative phase imaging and tomography: validation with digital holographic microscopy"
-teaser: "/images/bio-photo.jpg"
+teaser: "/images/2025_04_Coded_WFS_for_video-rate_QPI_and_tomography- validation_with_DHM_tomog_v3.png"
 collection: publications
 permalink: /publication/2025-04-Coded-WFS-for-video-rate-QPI-and-tomography-validation-with-DHM
 excerpt: ''
