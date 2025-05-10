@@ -60,5 +60,9 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+    {% if post.image %}
+      <img src="{{ post.image }}" alt="{{ post.title }}" class="pub-image">
+    {% endif %}
+
   </article>
 </div>
