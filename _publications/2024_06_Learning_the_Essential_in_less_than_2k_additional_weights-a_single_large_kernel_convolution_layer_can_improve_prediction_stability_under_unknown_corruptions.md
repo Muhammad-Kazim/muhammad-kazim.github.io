@@ -1,7 +1,7 @@
 ---
 title: "Learning the essential in less than 2k additional weights- a simple approach to improve image classification stability
 under corruptions"
-teaser: "/images/2024_06_Learning_the_Essential_in_less_than_2k_additional_weights-a_single_large_kernel_convolution_layer_can_improve_prediction_stability_under_unknown_corruptions_Kernel_Architecture.pdf"
+teaser: "/images/2024_06_Learning_the_Essential_in_less_than_2k_additional_weights-a_single_large_kernel_convolution_layer_can_improve_prediction_stability_under_unknown_corruptions_Kernel_Architecture.png"
 collection: publications
 permalink: /publication/2024_06_Learning_the_Essential_in_less_than_2k_additional_weights
 excerpt: ''
