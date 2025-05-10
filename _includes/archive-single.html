@@ -64,5 +64,15 @@
       <img src="{{ post.image }}" alt="{{ post.title }}" class="pub-image">
     {% endif %}
 
+    {% if page.video %}
+  <div class="publication-video" style="margin-bottom: 1em;">
+    <video width="100%" height="auto" controls>
+      <source src="{{ page.video | relative_url }}" type="video/avi">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+{% endif %}
+
+    
   </article>
 </div>
