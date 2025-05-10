@@ -1,5 +1,6 @@
 ---
 title: "Performance Validation of Coded Wavefront Sensing for Quantitative Phase Imaging of Static and Dynamic Specimens using Digital Holographic Microscopy"
+teaser: "/images/2025_03_Performance_Validation_of_Coded-WS_for_QPI_of_Static_and_Dynamic_Specimens_Using_DHM.png"
 collection: publications
 permalink: /publication/2025-03-performance-validation-of-Coded-WS-for-QPI-of-Static-and-Dynamic-Specimens-Using-DHM
 excerpt: ''

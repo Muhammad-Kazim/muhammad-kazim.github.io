@@ -1,5 +1,6 @@
 ---
 title: "Direct Image Classification from Fourier Ptychography Microscopy Measurements without Reconstruction"
+teaser: "/images/2025_03_Image_Classification_From_Raw_Fourier_Ptychography_Measurements.png"
 collection: publications
 permalink: /publication/2025-03-Image-Classification-From-Raw-Fourier-Ptychography-Measurements
 excerpt: ''
