@@ -20,7 +20,7 @@ Abstract -- We demonstrate coded wavefront sensing (Coded WFS) for video-rate qu
 </figure>
 
 <figure>
-  <video width="400" height="400" loop autoplay muted controls>
+  <video width="400" height="200" loop autoplay muted controls>
     <source src="/images/2025_04_Coded_WFS_for_video-rate_QPI_and_tomography-validation_with_DHM_Visualization_2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
