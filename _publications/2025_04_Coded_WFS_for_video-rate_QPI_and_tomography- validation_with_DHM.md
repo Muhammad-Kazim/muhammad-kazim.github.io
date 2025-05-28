@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2025-04-Coded-WFS-for-video-rate-QPI-and-tomography-validation-with-DHM
 excerpt: ''
 date: 2025-04-10
-venue: 'Submitted to Opt. Express'
+venue: 'Opt. Express'
 paperurl: 'https://doi.org/10.1364/opticaopen.28936898'
 citation: 'S. M. Kazim, F. Strasser, M. Løvmo, A. Nehrych, S. Moser, M. Ziemczonok, W. Heidrich, I. Ihrke, and M. Ritsch-Marte, &quot;Coded wavefront sensing for video-rate quantitative phase imaging and tomography: validation with digital holographic microscopy,&quot; <i>Optica Open</i>, May. 2025'
 ---
