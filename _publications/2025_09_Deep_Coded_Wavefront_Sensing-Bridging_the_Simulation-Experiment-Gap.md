@@ -1,6 +1,6 @@
 ---
 title: "Deep Coded Wavefront Sensing: Bridging the Simulation-Experiment Gap"
-teaser: "/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap.png"
+teaser: "/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_2.png"
 collection: publications
 permalink: /publication/2025-09-Deep-Coded-Wavefront-Sensing-Bridging-the-Simulation-Experiment-Gap
 excerpt: 'Selected for ***Oral*** presentation.'
