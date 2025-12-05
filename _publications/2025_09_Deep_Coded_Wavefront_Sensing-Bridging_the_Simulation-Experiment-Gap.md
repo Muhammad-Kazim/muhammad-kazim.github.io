@@ -11,7 +11,16 @@ citation: 'S. M. Kazim, P. Müller, and I. Ihrke, &quot;Deep Coded Wavefront Sen
 ---
 Abstract -- Coded wavefront sensing (CWFS) is a recent computational quantitative phase imaging technique that enables one-shot phase retrieval of biological and other phase specimens. CWFS is readily integrable with standard laboratory microscopes and does not require specialized labor for its usage. The CWFS phase retrieval method is inspired by optical flow, but uses conventional optimization techniques. A main reason for this is the lack of publicly available datasets for CWFS, which prevents researchers from using deep neural networks in CWFS. In this paper, we present a forward model that utilizes wave optics to generate SynthBeads: a CWFS dataset obtained by modeling the complete experimental setup, including wave propagation through refractive index (RI) volumes of spherical microbeads, a standard microscope, and the phase mask, which is a key component of CWFS, with high fidelity. We show that our forward model enables deep CWFS, where pre-trained optical flow networks finetuned on SynthBeads successfully generalize to our SynthCell dataset, experimental microbead measurements, and, remarkably, complex biological specimens, providing quantitative phase estimates and thereby bridging the simulation-experiment gap.
 
-## Principle of Coded Wavefront Sensing
+## Principles of Coded Wavefront Sensing
+
+## Forward Model Simulation
+
+<figure>
+  <img width="400" height="400">
+    <source src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_3.png">
+  </img>
+  <figcaption>Visualization 1: Abc.</figcaption>
+</figure>
 
 ## SynthBeads and TestSynthCells: First-ever Datasets for Coded Wavefront Sensing
 
