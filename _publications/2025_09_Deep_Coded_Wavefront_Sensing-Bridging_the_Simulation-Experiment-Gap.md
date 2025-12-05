@@ -1,11 +1,11 @@
 ---
-title: "Deep Coded Wavefront Sensing: Bridging the Simulation-Experiment Gap"
+title: "Deep Coded Wavefront Sensing: Bridging the Simulation-Experiment Gap" <br> Selected for *Oral* presentation.
 teaser: "/images/2025_04_Coded_WFS_for_video-rate_QPI_and_tomography- validation_with_DHM_tomog_v3.png"
 collection: publications
 permalink: /publication/2025-09-Deep-Coded-Wavefront-Sensing-Bridging-the-Simulation-Experiment-Gap
 excerpt: ''
 date: 2025-09-23
-venue: NeurIPS 2025 Workshop Learning to Sense (Proceedings Track) <br> Selected for **Oral** presentation.
+venue: 'NeurIPS 2025 Workshop Learning to Sense (Proceedings Track)'
 paperurl: 'https://doi.org/10.1364/opticaopen.28936898'
 citation: 'S. M. Kazim, P. Müller, and I. Ihrke, &quot;Deep Coded Wavefront Sensing: Bridging the Simulation-Experiment Gap,&quot; <i>NeurIPS 2025 Workshop Learning to Sense</i>, Sep. 2025'
 ---
