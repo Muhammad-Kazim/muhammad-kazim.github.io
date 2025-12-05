@@ -1,10 +1,9 @@
 ---
 title: "Deep Coded Wavefront Sensing: Bridging the Simulation-Experiment Gap"
-Selected for *Oral* presentation.
 teaser: "/images/2025_04_Coded_WFS_for_video-rate_QPI_and_tomography- validation_with_DHM_tomog_v3.png"
 collection: publications
 permalink: /publication/2025-09-Deep-Coded-Wavefront-Sensing-Bridging-the-Simulation-Experiment-Gap
-excerpt: ''
+excerpt: 'Selected for *Oral* presentation.'
 date: 2025-09-23
 venue: 'NeurIPS 2025 Workshop Learning to Sense (Proceedings Track)'
 paperurl: 'https://doi.org/10.1364/opticaopen.28936898'
