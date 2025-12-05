@@ -1,5 +1,6 @@
 ---
-title: "Deep Coded Wavefront Sensing: Bridging the Simulation-Experiment Gap" <br> Selected for *Oral* presentation.
+title: "Deep Coded Wavefront Sensing: Bridging the Simulation-Experiment Gap"
+extra: Selected for *Oral* presentation.
 teaser: "/images/2025_04_Coded_WFS_for_video-rate_QPI_and_tomography- validation_with_DHM_tomog_v3.png"
 collection: publications
 permalink: /publication/2025-09-Deep-Coded-Wavefront-Sensing-Bridging-the-Simulation-Experiment-Gap
