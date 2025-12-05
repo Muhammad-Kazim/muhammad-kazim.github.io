@@ -3,10 +3,10 @@ title: "Performance Validation of Coded Wavefront Sensing for Quantitative Phase
 teaser: "/images/2025_03_Performance_Validation_of_Coded-WS_for_QPI_of_Static_and_Dynamic_Specimens_Using_DHM.png"
 collection: publications
 permalink: /publication/2025-03-performance-validation-of-Coded-WS-for-QPI-of-Static-and-Dynamic-Specimens-Using-DHM
-excerpt: '***Best Paper Award***'
+excerpt: '***Best Poster Award***'
 date: 2025-03-01
 venue: 'International Symposium on Computational Sensing (ISCS)'
-paperurl: ''
+paperurl: 'https://doi.org/10.48550/arXiv.2508.17143'
 citation: 'S. M. Kazim, F. Strasser, M. Løvmo, A. Nehrych, S. Moser, M. Ziemczonok, W. Heidrich, I. Ihrke, and M. Ritsch-Marte, &quot;Performance validation of coded wavefront sensing for quantitative phase imaging
 of static and dynamic Specimens using digital holographic microscopy,&quot; <i>International Symposium on Computational Sensing (ISCS)</i>, Mar. 2025'
 ---
