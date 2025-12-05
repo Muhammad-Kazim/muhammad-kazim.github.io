@@ -21,7 +21,25 @@ Abstract -- Coded wavefront sensing (CWFS) is a recent computational quantitativ
   <figcaption>Visualization 1: Abc.</figcaption>
 </figure>
 
+<figure>
+  <img width="400" height="400"
+    src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_4.png" />
+  <figcaption>Visualization 2: Abc.</figcaption>
+</figure>
+
 ## SynthBeads and TestSynthCells: First-ever Datasets for Coded Wavefront Sensing
+
+<figure>
+  <img width="400" height="400"
+    src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_5.png" />
+  <figcaption>Visualization 3: Abc.</figcaption>
+</figure>
+
+<figure>
+  <img width="400" height="400"
+    src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_6.png" />
+  <figcaption>Visualization 4: Abc.</figcaption>
+</figure>
 
 ## Results on Synthetic and Real Data
 
