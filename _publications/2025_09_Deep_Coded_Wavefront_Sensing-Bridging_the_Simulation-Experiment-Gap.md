@@ -14,7 +14,7 @@ Abstract -- Coded wavefront sensing (CWFS) is a recent computational quantitativ
 ## Deep Coded Wavefront Sensing
 
 <figure>
-  <video width="400" height="400" loop autoplay muted controls>
+  <video width="800" height="400" loop autoplay muted controls>
     <source src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_10.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
