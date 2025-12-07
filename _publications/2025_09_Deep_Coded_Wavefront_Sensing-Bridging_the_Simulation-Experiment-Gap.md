@@ -35,7 +35,7 @@ The purely optical flow relationship is only partially true in Coded WFS microsc
 
 ## Forward Model Simulation
 
-The entire coded WFS pipeline is accurately simulated using wave optical techniques. Our forward modeling maps the volumetric specimen in the object space to the image plane with high fidelity. The two major components include the microscope, mainly its NA (low pass filtering) and magnification, and phase mask, which is responsible for the speckle pattern and the primary reason an ordinary camera is converted into an optical flow based phase retrieval device..
+The entire coded WFS pipeline is accurately simulated using wave optical techniques. Our forward modeling maps the volumetric specimen in the object space to the image plane with high fidelity. The two major components include the microscope, mainly its NA (low pass filtering) and magnification, and the phase mask, which is responsible for the speckle pattern and the primary reason an ordinary camera is converted into an optical flow-based phase retrieval device.
 
 <figure>
   <img width="400" height="400"
@@ -43,12 +43,12 @@ The entire coded WFS pipeline is accurately simulated using wave optical techniq
   <figcaption>Visualization 3: <b> Schematic of our forward model</b>.</figcaption>
 </figure>
 
-We restrict our spceimens to spherical objects.
+We restrict our volumetric specimens to randomized configurations of spherical objects. By randomly sampling the number of spheres, their radii, positions, refractive indices, and phase mask features (height and smoothing), we ensure that the network does not overfit to specific distributions of objects and remains agnostic to phase mask distributions. Additionally, spheres can be simulated very accurately (and quickly) as shown below, and in the coded WFS setting, where the main features in image space are speckles, we believe the finetuned networks will generalize to non-spherical objects as well.
 
 <figure>
   <img width="400" height="400"
     src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_4.png" />
-  <figcaption>Visualization 4: Abc.</figcaption>
+  <figcaption>Visualization 4: <b> Comaprison on simulated and experimentally measured focal stack of microspheres <\b>.</figcaption>
 </figure>
 
 ## SynthBeads and TestSynthCells: First-ever Datasets for Coded Wavefront Sensing
