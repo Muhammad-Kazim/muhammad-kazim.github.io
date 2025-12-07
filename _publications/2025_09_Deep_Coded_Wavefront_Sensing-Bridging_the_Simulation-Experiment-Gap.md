@@ -15,15 +15,17 @@ Abstract -- Coded wavefront sensing (CWFS) is a recent computational quantitativ
 
 Coded wavefront sensing (WFS) relates the gradient of the phase $`\nabla \phi`$ at one plane (the phase mask) to the flow of pixels  in another (the image plane), a distance *z* away,
 
-$` I_1 (r) = I_0 (r + \frac{\nabla}{k} \phi) `$.
+$` I_1 (r) = I_0 (r + \frac{z}{k} \nabla\phi) `$.
 
 <figure>
   <video width="800" height="400" loop autoplay muted controls>
     <source src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_10.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <figcaption>Visualization 1: Principle of coded wavefront sensing.</figcaption>
+  <figcaption>Visualization 1: Principle of coded wavefront sensing. The phase mask on top of the camera sensor creates speckles. These speckles move proportionally to the gradient of the wavefront compared to a reference speckle pattern.</figcaption>
 </figure>
+
+The purely optical flow relationship is only partially true in Coded WFS microscopy applications. The propagation of the wavefront by a distance *z* introduces amplitude variations as well as other features such as diffraction, which are inherent to microscopy. We propose leveraging pretrained optical flow networks by finetuning them with Coded WFS data, one that includes speckles, diffraction, and other microscopy features, so that the networks learn the mapping in the presence of these features, as shown below. 
 
 <figure>
   <img width="400" height="400"
