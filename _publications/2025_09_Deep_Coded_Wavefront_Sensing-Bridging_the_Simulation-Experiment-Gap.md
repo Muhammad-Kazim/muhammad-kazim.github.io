@@ -53,16 +53,20 @@ We restrict our volumetric specimens to randomized configurations of spherical o
 
 ## SynthBeads and TestSynthCells: First-ever Datasets for Coded Wavefront Sensing
 
+Through our accurate wave-optical modeling, we enable Deep Coded WFS (DC-WFS) by producing realistic, synthetic datasets. Optical flow networks can be trained on this dataset. We show in the next section that finetuning on SynthBeads removes the domain gap, such that finetuned networks can provide estimates on measurement data without performance degradation, which occurs when networks trained on synthetic data perform poorly on real data due to simplistic synthetic data not accounting for real features.
+
 <figure>
   <img width="400" height="400"
     src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_5.png" />
-  <figcaption>Visualization 5: Abc.</figcaption>
+  <figcaption>Visualization 5: <b> SynthBeads.</b> A datapoint includes specimen and reference pattern as well as the ground truth optical flow, which are the scaled gradients of the phase. Random configurations of the data are created to improve generalization.</figcaption>
 </figure>
+
+Additionally, we propose another dataset, SynthTestCells, which is exclusively a test set. The test set is created by retrieving the phase of a HEK cell in different orientations using DHM, fitting a large number of Zernike polynomials onto these phases, and then statistically sampling these Zernike coefficients, whilst increasing the variance manually to improve diversity of output. Testing on this synthetic biological test set allows us to quantify the performance of the finetuned network on complex, microscopy data.
 
 <figure>
   <img width="400" height="400"
     src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_6.png" />
-  <figcaption>Visualization 6: Abc.</figcaption>
+  <figcaption>Visualization 6: <b> SynthTestCells.</b> Statistically sampled dataset of synthetic HEK cells, used purely as a test set.</figcaption>
 </figure>
 
 ## Results on Synthetic and Real Data
