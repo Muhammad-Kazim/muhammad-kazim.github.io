@@ -13,16 +13,16 @@ Abstract -- Coded wavefront sensing (CWFS) is a recent computational quantitativ
 
 ## Deep Coded Wavefront Sensing
 
-Coded wavefront sensing (WFS) relates the gradient of the phase $`\nabla \phi`$ at one plane (the phase mask) to the flow of pixels  in another (the image plane), a distance *z* away,
+Coded wavefront sensing (WFS) relates the gradient of the phase $ \nabla \phi $ at one plane (the phase mask) to the flow of pixels  in another (the image plane), a distance *z* away.
 
-$` I_1 (r) = I_0 (r + \frac{z}{k} \nabla\phi) `$.
+$$ I_1 (r) = I_0 (r + \frac{z}{k} \nabla\phi) $$.
 
 <figure>
   <video width="800" height="400" loop autoplay muted controls>
     <source src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_10.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <figcaption>Visualization 1: Principle of coded wavefront sensing. The phase mask on top of the camera sensor creates speckles. These speckles move proportionally to the gradient of the wavefront compared to a reference speckle pattern.</figcaption>
+  <figcaption>Visualization 1: **Principle of coded wavefront sensing.** The phase mask on top of the camera sensor creates speckles. These speckles move proportionally to the gradient of the wavefront compared to a reference speckle pattern.</figcaption>
 </figure>
 
 The purely optical flow relationship is only partially true in Coded WFS microscopy applications. The propagation of the wavefront by a distance *z* introduces amplitude variations as well as other features such as diffraction, which are inherent to microscopy. We propose leveraging pretrained optical flow networks by finetuning them with Coded WFS data, one that includes speckles, diffraction, and other microscopy features, so that the networks learn the mapping in the presence of these features, as shown below. 
@@ -30,7 +30,7 @@ The purely optical flow relationship is only partially true in Coded WFS microsc
 <figure>
   <img width="400" height="400"
     src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_9.png" />
-  <figcaption>Visualization 2: Abc.</figcaption>
+  <figcaption>Visualization 2: **Deep coded wavefront sensing.** An optical flow network (RAFT here) is finetuned on synthetic Coded WFS data. A datapoint, which includes a tuple of reference and specimen speckle patterns and ground truth flow, is created by simulating wave optics effects as light traverses a volumetric object, through a microscope and a phase mask, and is finally incident on a camera sensor.</figcaption>
 </figure>
 
 ## Forward Model Simulation
