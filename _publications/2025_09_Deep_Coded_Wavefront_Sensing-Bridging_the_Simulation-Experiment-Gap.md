@@ -22,7 +22,7 @@ $$ I_1 (r) = I_0 (r + \frac{z}{k} \nabla\phi) $$.
     <source src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_10.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <figcaption>Visualization 1: **Principle of coded wavefront sensing.** The phase mask on top of the camera sensor creates speckles. These speckles move proportionally to the gradient of the wavefront compared to a reference speckle pattern.</figcaption>
+  <figcaption>Visualization 1: <b>Principle of coded wavefront sensing.</b> The phase mask on top of the camera sensor creates speckles. These speckles move proportionally to the gradient of the wavefront compared to a reference speckle pattern.</figcaption>
 </figure>
 
 The purely optical flow relationship is only partially true in Coded WFS microscopy applications. The propagation of the wavefront by a distance *z* introduces amplitude variations as well as other features such as diffraction, which are inherent to microscopy. We propose leveraging pretrained optical flow networks by finetuning them with Coded WFS data, one that includes speckles, diffraction, and other microscopy features, so that the networks learn the mapping in the presence of these features, as shown below. 
@@ -35,11 +35,15 @@ The purely optical flow relationship is only partially true in Coded WFS microsc
 
 ## Forward Model Simulation
 
+The entire coded WFS pipeline is accurately simulated using wave optical techniques. Our forward modeling maps the volumetric specimen in the object space to the image plane with high fidelity. The two major components include the microscope, mainly its NA (low pass filtering) and magnification, and phase mask, which is responsible for the speckle pattern and the primary reason an ordinary camera is converted into an optical flow based phase retrieval device..
+
 <figure>
   <img width="400" height="400"
     src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_3.png" />
-  <figcaption>Visualization 3: Abc.</figcaption>
+  <figcaption>Visualization 3: <b> Schematic of our forward model</b>.</figcaption>
 </figure>
+
+We restrict our spceimens to spherical objects.
 
 <figure>
   <img width="400" height="400"
