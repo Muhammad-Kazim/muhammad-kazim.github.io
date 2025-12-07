@@ -71,14 +71,18 @@ Additionally, we propose another dataset, SynthTestCells, which is exclusively a
 
 ## Results on Synthetic and Real Data
 
+We show two sets of results in the following. Firstly, we show the performance of the finetuned networks on synthetic data. We compare the performance of the network finetuned on SynthBeads, named DCWFS, with the performance of the pretrained network and the traditional ADMM-based method, named CWFS. On the test split of SynthBeads, DC-WFS outperforms other methods, while on SynthTestCells, CWFS edges out our method. The pretrained network, without finetuning on SynthBeads, fails to estimate and produces estimates with large errors (not shown below, table in the article).
+
 <figure>
   <img width="400" height="400"
     src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_7.png" />
-  <figcaption>Visualization 7: Abc.</figcaption>
+  <figcaption>Visualization 7: <b>Phase/optical path difference (OPD) on synthetic data.</b></figcaption>
 </figure>
+
+Secondly, we compare the performance of real measured data. Here, we do not possess the ground truth, so the comparison is largely qualitative. We measure microbeads and real HEK cells using CWFS hardware. We retrieve the phases with the traditional method and DC-WFS. For the microbeads, as it is a simple spherical object with a constant refractive index, we can accurately estimate that the OPD is smooth and the maximum OPD is the geometric delay. Given our expectations, we see that DC-WFS outperforms CWFS, indicating **no domain gap** between simulated and real data. For the HEK cell results, we can see that DC-WFS, as with SynthTestCells, **generalizes to complex unseen biological data**. However, the outputs of DC-WFS may be smooth, as is evidenced by the SynthTestCells, where certain details in the interior are merged, reflecting a low-resolution estimate.
 
 <figure>
   <img width="400" height="400"
     src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_8.png" />
-  <figcaption>Visualization 8: Abc.</figcaption>
+  <figcaption>Visualization 8: <b>Results on experimentally measured data.</b></figcaption>
 </figure>
