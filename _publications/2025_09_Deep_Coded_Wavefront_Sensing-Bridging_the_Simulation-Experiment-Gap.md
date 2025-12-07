@@ -48,7 +48,7 @@ We restrict our volumetric specimens to randomized configurations of spherical o
 <figure>
   <img width="400" height="400"
     src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_4.png" />
-  <figcaption>Visualization 4: <b> Comaprison on simulated and experimentally measured focal stack of microspheres <\b>.</figcaption>
+  <figcaption>Visualization 4: <b> Comaprison on simulated and experimentally measured focal stack of microspheres </b>.</figcaption>
 </figure>
 
 ## SynthBeads and TestSynthCells: First-ever Datasets for Coded Wavefront Sensing
