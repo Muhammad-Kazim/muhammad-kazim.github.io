@@ -13,6 +13,10 @@ Abstract -- Coded wavefront sensing (CWFS) is a recent computational quantitativ
 
 ## Deep Coded Wavefront Sensing
 
+Coded wavefront sensing (WFS) relates the gradient of the phase $`\nabla \phi`$ at one plane (the phase mask) to the flow of pixels  in another (the image plane), a distance *z* away,
+
+$` I_1 (r) = I_0 (r + \frac{\nabla}{k} \phi) `$.
+
 <figure>
   <video width="800" height="400" loop autoplay muted controls>
     <source src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_10.mp4" type="video/mp4">
