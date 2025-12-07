@@ -30,7 +30,7 @@ The purely optical flow relationship is only partially true in Coded WFS microsc
 <figure>
   <img width="400" height="400"
     src="/images/2025_09_Deep_Coded_Wavefront_Sensing_Bridging_the_Simulation-Experiment_Gap_9.png" />
-  <figcaption>Visualization 2: **Deep coded wavefront sensing.** An optical flow network (RAFT here) is finetuned on synthetic Coded WFS data. A datapoint, which includes a tuple of reference and specimen speckle patterns and ground truth flow, is created by simulating wave optics effects as light traverses a volumetric object, through a microscope and a phase mask, and is finally incident on a camera sensor.</figcaption>
+  <figcaption>Visualization 2: <b>Deep coded wavefront sensing.</b> An optical flow network (RAFT here) is finetuned on synthetic Coded WFS data. A datapoint, which includes a tuple of reference and specimen speckle patterns and ground truth flow, is created by simulating wave optics effects as light traverses a volumetric object, through a microscope and a phase mask, and is finally incident on a camera sensor.</figcaption>
 </figure>
 
 ## Forward Model Simulation
