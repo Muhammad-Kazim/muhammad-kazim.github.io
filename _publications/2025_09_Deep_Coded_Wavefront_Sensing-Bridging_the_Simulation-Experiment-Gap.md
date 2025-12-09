@@ -51,7 +51,7 @@ We restrict our volumetric specimens to randomized configurations of spherical o
   <figcaption>Visualization 4: <b> Comaprison on simulated and experimentally measured focal stack of microspheres </b>.</figcaption>
 </figure>
 
-## SynthBeads and TestSynthCells: First-ever Datasets for Coded Wavefront Sensing
+## SynthBeads and TestSynthCells: First Machine Learning Datasets for Coded Wavefront Sensing
 
 Through our accurate wave-optical modeling, we enable Deep Coded WFS (DC-WFS) by producing realistic, synthetic datasets. Optical flow networks can be trained on this dataset. We show in the next section that finetuning on SynthBeads removes the domain gap, such that finetuned networks can provide estimates on measurement data without performance degradation, which occurs when networks trained on synthetic data perform poorly on real data due to simplistic synthetic data not accounting for real features.
 
