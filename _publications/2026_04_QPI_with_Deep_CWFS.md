@@ -3,7 +3,6 @@ title: "Quantitative phase imaging with deep coded wavefront sensing"
 teaser: "/images/2026_04_Quantitative phase imaging with deep coded wavefront sensing.png"
 collection: publications
 permalink: /publication/2026_04_QPI_with_Deep_CWFS
-excerpt: 
 date: 2026-04-16
 venue: 
 paperurl: 'https://preprints.opticaopen.org/articles/preprint/Quantitative_phase_imaging_with_deep_coded_wavefront_sensing/31902724'
